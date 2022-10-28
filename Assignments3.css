@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+h4 {
+  color: red;
+}
+input {
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  border: 2px solid blue;
+  font-size: 15px;
+}
+#btn {
+  background-color: green;
+  color: white;
+  font-size: 17px;
+  border-radius: 30px 15px;
+}
+#btn:hover {
+  background-color: blue;
+}
+span {
+  color: red;
+  font-size: 15px;
+}
